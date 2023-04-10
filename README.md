@@ -1,4 +1,4 @@
-# sasOnGit
-SAS Code for demoing Git functionality
+# SAS Studio Workshop
+Repository for SAS Studio Flows and Custom Steps VLE
 
-You can choose any of the files on this repo. They are internet samples or exercise samples.
+Students should create a **Fork** of this repository.
