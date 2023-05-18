@@ -6,3 +6,11 @@ El curso tiene los siguientes objetivos que espero podamos cubrir en su totalida
 
 ### Conexión a la máquina 
 
+Usuario: Student
+Contraseña: Metadata0
+
+### Conociendo el ambiente
+¿Que es SAS Studio?
+Es una interfaz de desarrollo para los usuarios de SAS basada en web. Con SAS® Studio puedes acceder a tus archivos, librerías, programas existentes o crear nuevos programas.
+
+Cuando ejecutas una programa o una tarea, SAS® Studio se conecta al servidor SAS para procesar el elemento enviado. Cuando termina de procesar, el servidor envía los resultado de vuelta a SAS® Studio.
