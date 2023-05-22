@@ -1,4 +1,4 @@
 # SAS Studio Workshop
-Repository for SAS Studio Flows and Custom Steps VLE
+Repositorio para SAS Studio (general).
 
-Students should create a **Fork** of this repository.
+Favor de realizar una rama de este repo. **Fork** 
