@@ -1,3 +1,6 @@
+Prerequisitos:
+- Contar con una cuenta de github con la generación de un token clásico
+
 ## Introducción
 Hola. Bienvenidos al workshop de SAS Studio.
 El curso tiene los siguientes objetivos que espero podamos cubrir en su totalidad:
@@ -6,8 +9,8 @@ El curso tiene los siguientes objetivos que espero podamos cubrir en su totalida
 
 ### Conexión a la máquina 
 
-Usuario: Student
-Contraseña: Metadata0
+- Usuario: Student
+- Contraseña: Metadata0
 
 ### Conociendo el ambiente
 ¿Que es SAS Studio?
