@@ -1,7 +1,6 @@
 # Intrucciones
-Repositorio para SAS Studio (general).
-Favor de realizar una rama de este repo. Fork
-Prerequisitos:
+Repositorio para SAS Studio (general). Favor de realizar una rama(fork) de este repo.
+### Prerequisitos:
 - Contar con una cuenta de github con la generación de un token clásico
 
 ## Introducción
